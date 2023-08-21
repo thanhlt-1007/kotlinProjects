@@ -1,4 +1,4 @@
-# KOTLIN ANIMAL
+# KOTLIN COLLECTIONS
 
 ## 1. Development tools
 
